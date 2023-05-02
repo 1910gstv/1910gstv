@@ -10,6 +10,6 @@
 - ⚡ Fun fact: ...
 
 
-![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1910gstv)
+![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1910gstv&show_icons=true&theme=dracula)
 
 
