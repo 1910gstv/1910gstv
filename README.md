@@ -8,5 +8,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1910gstv)
+
 
