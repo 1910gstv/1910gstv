@@ -1,4 +1,4 @@
-### Olá, meu nome é Gustavo 👋
+### Olá, meu nome é Gustavo 👾
 
 🌱 Atualmente estou estudando Desenvolvimento Web
 
