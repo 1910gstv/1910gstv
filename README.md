@@ -4,7 +4,7 @@
 
 
 ![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1910gstv&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1910gstv&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1910gstv&layout=compact&size_weight=0.6&count_weight=0.6&theme=dracula)
 
 
 
