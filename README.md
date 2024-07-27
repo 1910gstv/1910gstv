@@ -1,6 +1,6 @@
 ### Olá, meu nome é Gustavo 👾
 
-🌱 Desenvolvedor Web 
+Hoje trabalho como desenvolvedor back-end
 
 
 ![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1910gstv&show_icons=true&theme=dark)
