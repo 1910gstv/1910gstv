@@ -3,8 +3,8 @@
 Hoje trabalho como desenvolvedor back-end
 
 
-![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1910gstv&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1910gstv&hide_progress=true&theme=dark)
+![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1910gstv&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1910gstv&hide_progress=true&theme=dracula)
 
 ##
 
