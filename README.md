@@ -4,7 +4,7 @@ Hoje trabalho como desenvolvedor back-end
 
 
 ![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1910gstv&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1910gstv&layout=compact&size_weight=0.6&count_weight=0.6&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1910gstv&hide_progress=true)
 
 ##
 
